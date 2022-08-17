@@ -1,11 +1,15 @@
 import java.util.*;
 import java.lang.Math;
-/**
- * Write a description of class distanceGiver here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
+/*
+Name: Vinay Narahari
+Date: 8/16/22
+Program Title: 2.8
+Program Description: finds distance between two (x,y) coordinates
+Variable List: scanner, x1, x2, y1, y2, totalX, totalY, distance
+
+
+*/
 public class twoPointEight
 {
     public static void main(String[] args){
