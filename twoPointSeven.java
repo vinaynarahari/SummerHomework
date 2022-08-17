@@ -1,6 +1,15 @@
 import java.util.*;
 
 
+/*
+Name: Vinay Narahari
+Date: 8/16/22
+Program Title: 2.4
+Program Description: converts seconds to time (h,m,s)
+Variable List: scanner, remainTime, seconds, minutes, hours
+
+
+*/
 public class twoPointSeven
 {
     public static void main(String[] args){
