@@ -1,10 +1,14 @@
 import java.util.*;
-/**
- * Write a description of class fahrenheitCelsius here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
+/*
+Name: Vinay Narahari
+Date: 8/16/22
+Program Title: 2.4
+Program Description: converts fahrenheit to celsius
+Variable List: scanner, CONVERSION_FACTOR , fahrenheitTemp , celsiusTemp
+
+
+*/
 public class twoPointFour
 {
     public static void main (String[] args){
