@@ -19,7 +19,7 @@ public class twopointtwo
         System.out.println("What is the third number?");
         int question3 = scanner.nextInt();
         
-        System.out.println((question1 + question2 + question3)/3);
+        System.out.println("Average:" + " " + ((question1 + question2 + question3)/3));
         
 
         
