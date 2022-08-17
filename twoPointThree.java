@@ -1,12 +1,15 @@
 import java.util.*;
 import java.lang.Math;
 
-/**
- * Write a description of class quotientRemainderPower here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+/*
+Name: Vinay Narahari
+Date: 8/16/22
+Program Title: 2.3
+Program Description: Gives quotient, remainder, power, sum , difference, product
+Variable List: quotient, remainder, power, sum difference, product , scanner , a , b
+
+
+*/
 public class twoPointThree
 {
    public static void main(String[] args){
