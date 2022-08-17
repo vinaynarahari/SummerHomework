@@ -4,7 +4,7 @@ import java.util.*;
 /*
 Name: Vinay Narahari
 Date: 8/16/22
-Program Title: 2.4
+Program Title: 2.7
 Program Description: converts seconds to time (h,m,s)
 Variable List: scanner, remainTime, seconds, minutes, hours
 
