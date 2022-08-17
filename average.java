@@ -5,7 +5,7 @@ import java.util.*;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class average
+public class 2.2
 {
     public static void main (String[] args){
         
