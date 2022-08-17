@@ -6,7 +6,7 @@ import java.lang.Math;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class distanceGiver
+public class twoPointEight
 {
     public static void main(String[] args){
         
