@@ -7,7 +7,7 @@ import java.lang.Math;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class quotientremainderpowersumdifferenceproduct
+public class twoPointThree
 {
    public static void main(String[] args){
        
