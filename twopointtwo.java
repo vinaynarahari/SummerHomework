@@ -1,10 +1,13 @@
 import java.util.*;
-/**
- * Write a description of class average here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+/*
+Name: Vinay Narahari
+Date: 8/16/22
+Program Title: 2.2
+Program Description: Reads 3 numbers and gives average
+Variable List: question1, question2 , question 3
+
+
+*/
 public class twopointtwo
 {
     public static void main (String[] args){
