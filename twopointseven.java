@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class secondstoTime
+public class twoPointSeven
 {
     public static void main(String[] args){
         
